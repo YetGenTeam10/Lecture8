@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Week_7_3.Domain",
+    "\\Infrastructure",
+    "\\Infrastructure\\Week_7_3.Persistence",
+    "\\Infrastructure\\Week_7_3.Persistence\\Contexts"
+  ],
+  "SelectedNode": "\\Infrastructure\\Week_7_3.Persistence\\Contexts",
+  "PreviewInSolutionExplorer": false
+}
